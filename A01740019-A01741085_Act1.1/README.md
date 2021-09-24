@@ -1,4 +1,5 @@
-# Act. 1.1: Implementacion de la tecnica de programacion "divide y venceras", fecha: 26/08/21
+# Act. 1.1: Implementacion de la tecnica de programacion "divide y venceras"
+Fecha: 26/08/21
 - Ana Cristina Munguia Romero, A01740019
 - Carlos Noel Ojeda Angulo, A01741085
 
