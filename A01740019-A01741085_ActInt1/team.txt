@@ -1,0 +1,7 @@
+A01740019, Ana Cristina Munguia Romero 
+    Partes especificas en las que trabajo:
+        - En todo: trabajamos de forma sincrona (pair programming).
+
+A01741085, Carlos Noel Ojeda Angulo
+    Partes especificas en las que trabajo:
+        - En todo: trabajamos de forma sincrona (pair programming).
