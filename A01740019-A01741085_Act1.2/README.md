@@ -19,13 +19,13 @@ En este README.md colocamos nuestros cuatro casos de prueba sugeridos:
     
     Salida esperada:
     
-    Resultado del metodo avaro
+        Resultado del metodo avaro
         5: 1
         4: 0
         3: 0
         1: 2
 
-    Resultado del metodo dinamico
+        Resultado del metodo dinamico
         5: 0
         4: 1
         3: 1
@@ -42,12 +42,12 @@ En este README.md colocamos nuestros cuatro casos de prueba sugeridos:
 
     Salida esperada: 
     
-    Resultado del metodo avaro
+        Resultado del metodo avaro
         10: 1
         7: 0
         1: 5
 
-    Resultado del metodo dinamico
+        Resultado del metodo dinamico
         10: 0
         7: 2
         1: 1
@@ -65,14 +65,14 @@ En este README.md colocamos nuestros cuatro casos de prueba sugeridos:
     
     Salida esperada: 
         
-    Resultado del metodo avaro
+        Resultado del metodo avaro
         25: 2
         21: 0
         10: 1
         5: 0
         1: 3
 
-    Resultado del metodo dinamico
+        Resultado del metodo dinamico
         25: 0
         21: 3
         10: 0
@@ -91,13 +91,13 @@ En este README.md colocamos nuestros cuatro casos de prueba sugeridos:
 
     Salida esperada: 
     
-    Resultado del metodo avaro
+        Resultado del metodo avaro
         10: 0
         6: 1
         4: 0
         1: 2
 
-    Resultado del metodo dinamico
+        Resultado del metodo dinamico
         10: 0
         6: 0
         4: 2
