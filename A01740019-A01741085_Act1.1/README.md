@@ -18,7 +18,7 @@ En este README.md colocamos nuestros cuatro casos de prueba sugeridos:
     1.4\
     1.6\
     1.5\
-    1.0\
+    1.0
     
     Salida esperada: 1.9 1.8 1.7 1.6 1.5 1.4 1.3 1.2 1.1 1
     
@@ -33,7 +33,7 @@ En este README.md colocamos nuestros cuatro casos de prueba sugeridos:
     -6.4\
     -8.3\
     -7.4\
-    -8.5\
+    -8.5
 
     Salida esperada: -3.5 -3.9 -6 -6.4 -6.7 -7.4 -8 -8.1 -8.3 -8.5
 
@@ -48,7 +48,7 @@ En este README.md colocamos nuestros cuatro casos de prueba sugeridos:
     0.8\
     0.2\
     -0.9\
-    0.3\
+    0.3
     
     Salida esperada: 1 0.8 0.6 0.3 0.2 -0.4 -0.5 -0.8 -0.9 -1
 
@@ -63,6 +63,6 @@ En este README.md colocamos nuestros cuatro casos de prueba sugeridos:
     4.5\
     2.8\
     2.9\
-    3.0\
+    3.0
 
     Salida esperada: 6.6 6.6 6.1 6 4.5 4.5 3 3 2.9 2.8
