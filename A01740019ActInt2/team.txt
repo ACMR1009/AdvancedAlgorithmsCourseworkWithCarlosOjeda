@@ -1,0 +1,7 @@
+A01740019, Ana Cristina Munguia Romero 
+    Specific parts she worked on:
+        - On everything: we worked synchronously (pair programming).
+
+A01741085, Carlos Noel Ojeda Angulo
+    Specific parts he worked on:
+        - On everything: we worked synchronously (pair programming).
